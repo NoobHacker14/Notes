@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0d912db6602ff697",
+        "id": "07f108577c6b87e7",
         "type": "tabs",
         "children": [
           {
-            "id": "a3d9ffbcc9f4eb25",
+            "id": "808e2d2a90da7901",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,24 @@
             }
           },
           {
-            "id": "77899470cfa6c199",
+            "id": "cef0511d57e795ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All the stuff we need to Install.md",
+                "file": "Binary Exploitation/01-02 Overwriting variables on stack/01/Python Script.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abc372d5c135a9ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Binary Exploitation/All the stuff we need to Install.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 263.5
   },
   "right": {
     "id": "1fb3a52e8a14facb",
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "All the stuff we need to Install.md",
+                "file": "Binary Exploitation/01-02 Overwriting variables on stack/01/Python Script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "All the stuff we need to Install.md",
+                "file": "Binary Exploitation/01-02 Overwriting variables on stack/01/Python Script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All the stuff we need to Install.md"
+                "file": "Binary Exploitation/01-02 Overwriting variables on stack/01/Python Script.md"
               }
             }
           }
@@ -146,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,11 +170,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "77899470cfa6c199",
+  "active": "cef0511d57e795ab",
   "lastOpenFiles": [
     "Binary Exploitation/01-02 Overwriting variables on stack/01/Main.md",
-    "All the stuff we need to Install.md",
     "Binary Exploitation/01-02 Overwriting variables on stack/01/Source Code.md",
+    "Binary Exploitation/01-02 Overwriting variables on stack/01/Python Script.md",
+    "Binary Exploitation/All the stuff we need to Install.md",
     "Binary Exploitation/Compiling Binaries.md",
     "Obsidian Syntax.md",
     "Binary Exploitation/01-02 Overwriting variables on stack/01",
