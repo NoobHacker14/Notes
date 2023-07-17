@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "07f108577c6b87e7",
+        "id": "2d0ed5821a7ec787",
         "type": "tabs",
         "children": [
           {
-            "id": "808e2d2a90da7901",
+            "id": "ca289daeda3b5bf6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Binary Exploitation/01-02 Overwriting variables on stack/01/Main.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cef0511d57e795ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Binary Exploitation/01-02 Overwriting variables on stack/01/Python Script.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abc372d5c135a9ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Binary Exploitation/All the stuff we need to Install.md",
+                "file": "Binary Exploitation/06 return to libc/x64/Main.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Binary Exploitation/01-02 Overwriting variables on stack/01/Python Script.md",
+                "file": "Binary Exploitation/06 return to libc/x64/Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Binary Exploitation/01-02 Overwriting variables on stack/01/Python Script.md",
+                "file": "Binary Exploitation/06 return to libc/x64/Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Binary Exploitation/01-02 Overwriting variables on stack/01/Python Script.md"
+                "file": "Binary Exploitation/06 return to libc/x64/Main.md"
               }
             }
           }
@@ -170,16 +145,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cef0511d57e795ab",
+  "active": "ca289daeda3b5bf6",
   "lastOpenFiles": [
-    "Binary Exploitation/01-02 Overwriting variables on stack/01/Main.md",
-    "Binary Exploitation/01-02 Overwriting variables on stack/01/Source Code.md",
-    "Binary Exploitation/01-02 Overwriting variables on stack/01/Python Script.md",
-    "Binary Exploitation/All the stuff we need to Install.md",
+    "Binary Exploitation/06 return to libc/x86/Main.md",
+    "Binary Exploitation/06 return to libc/x64/Main.md",
+    "Binary Exploitation/06 return to libc/x64/Source Code.md",
+    "Binary Exploitation/06 return to libc/x86/Python Script.md",
+    "Binary Exploitation/06 return to libc/x86/Source Code.md",
     "Binary Exploitation/Compiling Binaries.md",
+    "Binary Exploitation/06 return to libc/x64",
+    "Binary Exploitation/06 return to libc/x86",
+    "Binary Exploitation/06 return to libc/x64/Python Script.md",
+    "Binary Exploitation/05 Injecting shellcode/Main.md",
+    "Binary Exploitation/06 return to libc",
+    "Binary Exploitation/05 Injecting shellcode/Python Script.md",
+    "Binary Exploitation/05 Injecting shellcode/Source Code.md",
+    "Binary Exploitation/05 Injecting shellcode",
+    "Binary Exploitation/03-04 Ret2Win/04 Functions parameters/x64/Python Script.md",
+    "Binary Exploitation/03-04 Ret2Win/04 Functions parameters/x64/Main.md",
+    "Binary Exploitation/03-04 Ret2Win/04 Functions parameters/x64/Source Code.md",
+    "Binary Exploitation/03-04 Ret2Win/04 Functions parameters/x86/Main.md",
+    "Binary Exploitation/03-04 Ret2Win/04 Functions parameters/x86/Python Script.md",
+    "Binary Exploitation/03-04 Ret2Win/04 Functions parameters/x86/Source Code.md",
     "Obsidian Syntax.md",
-    "Binary Exploitation/01-02 Overwriting variables on stack/01",
-    "Binary Exploitation/01-02 Overwriting variables on stack",
-    "Binary Exploitation"
+    "Binary Exploitation/03-04 Ret2Win/03/Main.md",
+    "Binary Exploitation/03-04 Ret2Win/04 Functions parameters/x86",
+    "Binary Exploitation/03-04 Ret2Win/04 Functions parameters/x64",
+    "Binary Exploitation/03-04 Ret2Win/04 Functions parameters",
+    "Binary Exploitation/03-04 Ret2Win/03",
+    "Binary Exploitation/03-04 Ret2Win/03/Python Script.md",
+    "Binary Exploitation/03-04 Ret2Win/03/Source Code.md",
+    "Binary Exploitation/03 Ret2Win/Ropstar.md",
+    "Binary Exploitation/01-02 Overwriting variables on stack/02/Main.md",
+    "Binary Exploitation/03-04 Ret2Win",
+    "Binary Exploitation/01-02 Overwriting variables on stack/02/Python Script.md",
+    "Binary Exploitation/01-02 Overwriting variables on stack/01/Main.md",
+    "Binary Exploitation/01-02 Overwriting variables on stack/01/Python Script.md",
+    "Binary Exploitation/01-02 Overwriting variables on stack/02/Source Code.md",
+    "Binary Exploitation/01-02 Overwriting variables on stack/02"
   ]
 }
